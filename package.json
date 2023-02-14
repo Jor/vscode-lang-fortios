@@ -17,6 +17,10 @@
             "id": "fortigate",
             "aliases": ["Fortigate", "fortigate"],
             "extensions": [".conf", ".fortigate", ".fgt"],
+            "icon": {
+                "light": "./images/fortinet-social-icon.jpg",
+                "dark": "./images/fortinet-social-icon.jpg"
+            },
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{
