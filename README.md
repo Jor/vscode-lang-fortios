@@ -2,7 +2,7 @@
 
 This is a vscode implementation of the Fortigate syntax highlighting for Atom by Lunzalot: https://github.com/lunzalot/language-fortigate
 
-Forked from here: https://github.com/GSGBen/fortigate-fortios-syntax
+Forked from here: https://github.com/GSGBen/fortigate-fortios-syntax for adding icons
 
 ## Release Notes
 
